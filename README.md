@@ -1,5 +1,6 @@
 # push_swap
 In this project I got acquainted with the concept of the complexity of the algorithm.
+
 The principe of sorting i used is desribed in this page https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a.
 The Push_swap project is a very simple and highly effective algorithm project: data will
 need to be sorted. I have at my disposal a set of int values, 2 stacks and a set of
