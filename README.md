@@ -11,8 +11,8 @@ I Wrote a program in C called push_swap which calculates and displays
 on the standard output the smallest program using Push_swap instruction language that
 sorts the integer arguments received.
 
-Common rules:
-• The game is composed of 2 stacks named a and b.
+Common rules:\
+• The game is composed of 2 stacks named a and b.\
 • To start with:
 ◦ a contains a random number of either positive or negative numbers without
 any duplicates.
