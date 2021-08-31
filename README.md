@@ -37,10 +37,10 @@ rra : reverse rotate a - shift down all elements of stack a by 1. The last eleme
 becomes the first one.\
 rrb : reverse rotate b - shift down all elements of stack b by 1. The last element
 becomes the first one.\
-rrr : rra and rrb at the same time.\
+rrr : rra and rrb at the same time.
 
 To check the work of the program:
 1. make
 2. ./push_swap "some random int values" (e.g ./push_swap 2 1 3 6 5 8) | wc -l(to check the quantity of completed operations). 
 Also you can use something like that   "ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_Mac $ARG".  
-checker_Mac let you know know if the stack is sorted. 
+checker_Mac let you know if the stack is sorted. 
