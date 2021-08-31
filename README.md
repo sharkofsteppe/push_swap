@@ -2,12 +2,15 @@
 In this project I got acquainted with the concept of the complexity of the algorithm.
 
 The principe of sorting i used is desribed in this page https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a.
+
 The Push_swap project is a very simple and highly effective algorithm project: data will
 need to be sorted. I have at my disposal a set of int values, 2 stacks and a set of
 instructions to manipulate both stacks.
+
 I Wrote a program in C called push_swap which calculates and displays
 on the standard output the smallest program using Push_swap instruction language that
 sorts the integer arguments received.
+
 Common rules:
 • The game is composed of 2 stacks named a and b.
 • To start with:
